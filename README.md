@@ -11,14 +11,16 @@ This project is a practice on building rails API. The app simply allows users to
 
 # Front End App
 
-[Hello-React-Rails-App]()
+[Hello-React-Rails-App](https://github.com/AdornChoga/hello-react-front-end/tree/setup)
 
 # Setup Instructions
 
 1. Clone this repository
 2. Run `bundle install` in the terminal
 3. Run `rails db:setup`
-4. Run `rails s` in the terminal
+4. Run `rails s -p=3000` in the terminal
+
+NB: Server should be run on localhost port 3000
 
 ## Author
 
