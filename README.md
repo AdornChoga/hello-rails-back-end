@@ -1,24 +1,39 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello-React-Rails API
 
-Things you may want to cover:
+This project is a practice on building rails API. The app simply allows users to get a random greeting from the '/v1/greetings/random' endpoint.
 
-* Ruby version
+# Built with
 
-* System dependencies
+- Ruby
+- RoR
 
-* Configuration
+# Front End App
 
-* Database creation
+[Hello-React-Rails-App]()
 
-* Database initialization
+# Setup Instructions
 
-* How to run the test suite
+1. Clone this repository
+2. Run `bundle install` in the terminal
+3. Run `rails db:setup`
+4. Run `rails s` in the terminal
 
-* Services (job queues, cache servers, search engines, etc.)
+## Author
 
-* Deployment instructions
+👤 **Adorn**
 
-* ...
+- GitHub: [@AdornChoga](https://github.com/AdornChoga)
+- Twitter: [@adornchoga](https://twitter.com/adorn_choga)
+- LinkedIn: [@adornchoga](https://www.linkedin.com/in/adorn-choga)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
